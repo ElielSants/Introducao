@@ -45,3 +45,4 @@ C:\Dev\Introducao\Curso\obj\Debug\netcoreapp3.1\CursoEFCore.csproj.CopyComplete
 C:\Dev\Introducao\Curso\obj\Debug\netcoreapp3.1\CursoEFCore.dll
 C:\Dev\Introducao\Curso\obj\Debug\netcoreapp3.1\CursoEFCore.pdb
 C:\Dev\Introducao\Curso\obj\Debug\netcoreapp3.1\CursoEFCore.genruntimeconfig.cache
+C:\Dev\Introducao\Curso\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
